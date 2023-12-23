@@ -17,7 +17,9 @@ Users are managed through a designated sheet, and enrollment in the club is faci
 When the flight_deals_handler/main.py script is executed and a flight is discovered, notifications are promptly emailed to all registered users.
 
 ![Screenshot 2023-12-23 220705](https://github.com/MohamedAboSaleh/Flight_Deals/assets/135134225/6e9b0337-63b2-4eb4-94d0-c420fe9b5872)
-![Screenshot 2023-12-23 220315](https://github.com/MohamedAboSaleh/Flight_Deals/assets/135134225/87c75e36-54ce-4a6c-9994-48b28066a5b2)
+
+![Screenshot 2023-12-23 220642](https://github.com/MohamedAboSaleh/Flight_Deals/assets/135134225/a8016ef2-356a-4ec8-b41a-912f44e1c1fb)
+
 
 ## The alert received upon discovering a flight:
 ![Screenshot 2023-12-23 220812](https://github.com/MohamedAboSaleh/Flight_Deals/assets/135134225/4332f078-13d0-4f65-8318-abdb8ddadd85)
