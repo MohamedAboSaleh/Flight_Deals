@@ -45,9 +45,8 @@ Once a deal is found, all users in the Google Sheet are notified via email. The 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/MohamedAboSaleh/Flight_Deals.git
-   cd Flight_Deals
    ```  
-2. Add your API keys to the appropriate scripts:  
+2. Add your API keys to the appropriate scripts  
 
 
 ### Running the Project  
